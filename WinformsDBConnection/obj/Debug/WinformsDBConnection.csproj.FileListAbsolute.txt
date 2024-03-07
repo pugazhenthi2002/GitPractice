@@ -1,0 +1,12 @@
+C:\Users\Pugaizhenthi\source\repos\WinformsDBConnection\WinformsDBConnection\bin\Debug\WinformsDBConnection.exe.config
+C:\Users\Pugaizhenthi\source\repos\WinformsDBConnection\WinformsDBConnection\bin\Debug\WinformsDBConnection.exe
+C:\Users\Pugaizhenthi\source\repos\WinformsDBConnection\WinformsDBConnection\bin\Debug\WinformsDBConnection.pdb
+C:\Users\Pugaizhenthi\source\repos\WinformsDBConnection\WinformsDBConnection\bin\Debug\MySql.Data.dll
+C:\Users\Pugaizhenthi\source\repos\WinformsDBConnection\WinformsDBConnection\obj\Debug\WinformsDBConnection.csprojAssemblyReference.cache
+C:\Users\Pugaizhenthi\source\repos\WinformsDBConnection\WinformsDBConnection\obj\Debug\WinformsDBConnection.Form1.resources
+C:\Users\Pugaizhenthi\source\repos\WinformsDBConnection\WinformsDBConnection\obj\Debug\WinformsDBConnection.Properties.Resources.resources
+C:\Users\Pugaizhenthi\source\repos\WinformsDBConnection\WinformsDBConnection\obj\Debug\WinformsDBConnection.csproj.GenerateResource.cache
+C:\Users\Pugaizhenthi\source\repos\WinformsDBConnection\WinformsDBConnection\obj\Debug\WinformsDBConnection.csproj.CoreCompileInputs.cache
+C:\Users\Pugaizhenthi\source\repos\WinformsDBConnection\WinformsDBConnection\obj\Debug\WinformsDBConnection.csproj.CopyComplete
+C:\Users\Pugaizhenthi\source\repos\WinformsDBConnection\WinformsDBConnection\obj\Debug\WinformsDBConnection.exe
+C:\Users\Pugaizhenthi\source\repos\WinformsDBConnection\WinformsDBConnection\obj\Debug\WinformsDBConnection.pdb
